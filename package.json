@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "2.9.0",
-    "find-process": "git+https://github.com/douglascvas/find-process.git",
     "moment": "2.15.2"
   }
 }
