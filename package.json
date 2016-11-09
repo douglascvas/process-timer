@@ -11,5 +11,6 @@
   "dependencies": {
     "commander": "2.9.0",
     "moment": "2.15.2"
-  }
+  },
+  "preferGlobal": "true"
 }
